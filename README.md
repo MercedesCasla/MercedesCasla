@@ -6,6 +6,7 @@
 
 - 🌐 HTML, CSS y JavaScript
 - 🐍 Python
+- ☕ Java
 - 🗃️ Bases de datos con MySQL
 - 🛠️ Control de versiones con Git
 
