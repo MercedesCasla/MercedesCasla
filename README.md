@@ -4,8 +4,7 @@
 
 🎓 Actualmente estudio el Grado Superior en Desarrollo de Aplicaciones Web (DAW), donde estoy aprendiendo:
 
-- 🌐 [HTML, CSS y JavaScript](https://github.com/MercedesCasla/html-css-practicas)
-- ✨ [JavaScript](https://github.com/MercedesCasla/javascript-practicas)
+- 🌐 [HTML, CSS y JavaScript](https://github.com/MercedesCasla/html-css-javascript)
 - 🐍 [Python](https://github.com/MercedesCasla/phyton-practicas)
 - ☕ [Java](https://github.com/MercedesCasla/java-practicas)
 - 🗃️ [Bases de datos con MySQL](https://github.com/mercedescasla/sql)
