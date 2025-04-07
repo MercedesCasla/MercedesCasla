@@ -1,16 +1,28 @@
-## Hi there 👋
+# ¡Hola! Soy Mercedes 👋
 
-<!--
-**MercedesCasla/MercedesCasla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Profesional con 4 años de experiencia en gestión de software educativo, soporte técnico y experiencia de usuario (UX).
 
-Here are some ideas to get you started:
+🎓 Actualmente estudio el Grado Superior en Desarrollo de Aplicaciones Web (DAW), donde estoy aprendiendo:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 HTML, CSS y JavaScript
+- 🐍 Python
+- 🗃️ Bases de datos con MySQL
+- 🛠️ Control de versiones con Git
+
+🔍 **Busco oportunidades para realizar mis prácticas en:**
+
+- 💻 Desarrollo web (frontend o backend)
+
+🚀 En este perfil encontrarás ejercicios, mini-proyectos y recursos que estoy utilizando para mejorar mis habilidades como desarrolladora web.
+
+---
+
+📫 **Contacto**
+
+- ✉️ Email: mercedescasla@gmail.com
+- 💼 [LinkedIn]([(https://www.linkedin.com/in/mercedescasla/])  
+- 🌍 Valencia, España
+
+---
+
+✨ ¡Gracias por visitar mi perfil!
