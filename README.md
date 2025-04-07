@@ -22,7 +22,7 @@
 📫 **Contacto**
 
 - ✉️ Email: mercedescasla@gmail.com
-- 💼 [LinkedIn]([(https://www.linkedin.com/in/mercedescasla/])  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mercedescasla/)  
 - 🌍 Valencia, España
 
 ---
